@@ -40,4 +40,5 @@ Gostaríamos de agradecer a todos os colaboradores que contribuíram para este p
 Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem **[aqui](https://github.com/NyahLiz/LetsSchoolGame/issues)**.
 
 Discord: nyahliz
+
 **Divirta-se jogando!**
