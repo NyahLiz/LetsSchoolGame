@@ -3,7 +3,7 @@
 **Bem-vindo ao repositório da tradução do jogo Let's School!**
 https://store.steampowered.com/app/1937500/Lets_School/
 
-![Screenshot do Jogo](link_para_screenshot.png)
+![Screenshot do Jogo](https://i.imgur.com/8reBTXV.jpeg)
 
 ## Sobre
 
@@ -28,7 +28,7 @@ Se você deseja contribuir para a tradução, veja abaixo como você pode ajudar
 3. Dentro da pasta de instalação do jogo, localize a pasta `Let's School\L10n\00`.
 4. Cole o arquivo de tradução baixado nesta pasta e substitua o arquivo existente.
 5. Caso seu jogo não esteja em inglês dentro do jogo, você pode precisar ajustar as configurações de idioma para garantir que a tradução funcione corretamente.
-6. Agora você está pronto para jogar! A versão atual da tradução é compatível com jogo de versão V1.3.2.1.
+6. Agora você está pronto para jogar! A versão atual da tradução é compatível com jogo de versão **V1.3.2.1**.
 
 ## Agradecimentos
 
