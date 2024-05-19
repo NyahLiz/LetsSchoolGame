@@ -1,9 +1,10 @@
 # Tradução do Jogo Let's School
 
 **Bem-vindo ao repositório da tradução do jogo Let's School!**
+
 https://store.steampowered.com/app/1937500/Lets_School/
 
-![Screenshot do Jogo](https://i.imgur.com/8reBTXV.jpeg)
+![Screenshot do Jogo](https://i.imgur.com/TRUaxlQ.jpeg)
 
 ## Sobre
 
