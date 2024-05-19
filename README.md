@@ -24,7 +24,7 @@ Se você deseja contribuir para a tradução, veja abaixo como você pode ajudar
 
 ## Download e Instalação
 
-1. Faça o download do arquivo .json de tradução disponível **[aqui]([link_para_download_da_traducao](https://github.com/NyahLiz/LetsSchoolGame/releases)**.
+1. Faça o download do arquivo .json de tradução disponível **[aqui](https://github.com/NyahLiz/LetsSchoolGame/releases)**.
 2. Navegue até a pasta de instalação do jogo. Se você adquiriu o jogo pela Steam, a pasta de instalação geralmente é encontrada em: `C:\Program Files (x86)\Steam\steamapps\common`.
 3. Dentro da pasta de instalação do jogo, localize a pasta `Let's School\L10n\00`.
 4. Cole o arquivo de tradução baixado nesta pasta e substitua o arquivo existente.
